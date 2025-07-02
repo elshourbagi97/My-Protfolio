@@ -1,16 +1,85 @@
-<<<<<<< HEAD
-# React + Vite
+# 💼 My Portfolio - Adham Elshourbagi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio website!  
+This project was built to showcase my skills, projects, and background as a Full Stack Web Developer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🖼️ Screenshot
 
-## Expanding the ESLint configuration
+![Portfolio Home](./Home.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# My-Protfolio
->>>>>>> 1294b169b789737cf1d7fc5aa80360a4d8a90027
+---
+
+## 🚀 Technologies Used
+
+- **React.js**
+- **JavaScript**
+- **HTML5**
+- **SCSS**
+- **CSS3**
+- **Bootstrap 5**
+- **Tailwind CSS**
+- **PHP**
+- **MySQL**
+- **Laravel**
+- **Git & GitHub**
+
+---
+
+## 🌐 Website Sections
+
+### 🔹 Home  
+Features a custom 3D animated **profile card** with social links and a short intro about me.
+
+### 🔹 About  
+Includes my image and full bio with animation effects powered by **AOS.js**.
+
+### 🔹 Skills  
+Displays all the technologies and tools I’m proficient in:
+HTML, CSS, SCSS, JavaScript, Bootstrap, Tailwind, React, PHP, MySQL, Laravel, Git, and GitHub.
+
+### 🔹 Projects  
+A gallery of my personal and professional projects, each with:
+- An image preview  
+- A playable video demo  
+
+### 🔹 Contact  
+Users can send me a message through a form.  
+Submitted messages go directly to: **elshourbagi97@gmail.com**
+
+### 🔹 Scroll-to-Top Button  
+Sticky button to smoothly scroll users back to the top of the page.
+
+---
+
+## 📄 CV Download
+
+A button is included in the project to allow users to **download my CV** directly from the website.
+
+---
+
+## 📫 Contact Me
+
+If you'd like to connect or collaborate, feel free to reach out:
+
+- 📧 **Email**: elshourbagi97@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/elshourbagii)  
+- 🐱 [GitHub](https://github.com/elshourbagi97)  
+- 📸 [Instagram](https://www.instagram.com/elshourbagi)  
+- 🧵 [Twitter](https://x.com/elshourbagii)
+
+---
+
+## ✅ Live Demo
+
+> [Add your live demo link here if deployed using Netlify, Vercel, etc.]
+
+---
+
+## 🛠️ Setup Instructions
+
+To run locally:
+
+```bash
+git c
