@@ -40,6 +40,7 @@ export default function Projects() {
     {
       video: "./onlineQuiz.mp4",
       image: "./onlineQuiz.PNG",
+      scss: "onlineQuiz",
       h3: "Online Quiz App ' Interactive Learning Platform '.",
       para: "A simple and intuitive Online Quiz App for students and teachers to create and take quizzes. Designed for interactive learning with a clean, responsive interface.",
       skills: ["./html.png", "./css.png", "./scss.png", "./php.png", "./mysql.png", "./js.png", "./bootstrap.png"],
@@ -90,7 +91,7 @@ export default function Projects() {
             <div ref={(el) => (cardContentRefs.current[i] = el)} className="cardContent">
               <h3>{item.h3}</h3>
               <p>{item.para}</p>
-              <div className="skills">
+              <div className={`skills ${item.scss}`}>
                 {item.skills.map((skill, id) => (
                   <div className="imgSkill" key={id}>
                     <img

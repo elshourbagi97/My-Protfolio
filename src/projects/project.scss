@@ -80,7 +80,7 @@
           .skills {
             display: flex;
             gap: 0.3rem;
-            translate: 1rem 2rem;
+            translate: 1rem -3rem;
             margin-bottom: 1.5rem;
             .imgSkill {
               width: 2.3rem;
@@ -95,6 +95,9 @@
                 object-fit: contain;
               }
             }
+          }
+          .onlineQuiz{
+            translate: 1rem -1.5rem;
           }
     }
         }
@@ -154,6 +157,11 @@ display: none !important;
         .restaurant{
           height: 11rem;
         }
+      }
+    }
+    .cardContent{
+      .skills{
+        translate: 0rem 1rem !important;
       }
     }
     .logoPlay{
