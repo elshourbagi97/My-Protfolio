@@ -51,11 +51,15 @@ Submitted messages go directly to: **elshourbagi97@gmail.com**
 ### 🔹 Scroll-to-Top Button  
 Sticky button to smoothly scroll users back to the top of the page.
 
+### 🔹 CV Download  
+A button is included in the project to allow users to **download my CV** directly from the website.
+
 ---
 
-## 📄 CV Download
+## 🎥 Live Demo
 
-A button is included in the project to allow users to **download my CV** directly from the website.
+Watch the full walkthrough of my portfolio here:  
+👉 [YouTube Demo Video](https://youtu.be/jwijybA_H14)
 
 ---
 
@@ -71,15 +75,12 @@ If you'd like to connect or collaborate, feel free to reach out:
 
 ---
 
-## ✅ Live Demo
-
-> [Add your live demo link here if deployed using Netlify, Vercel, etc.]
-
----
-
 ## 🛠️ Setup Instructions
 
 To run locally:
 
 ```bash
-git c
+git clone https://github.com/elshourbagi97/My-Protfolio.git
+cd My-Protfolio
+npm install
+npm run dev
