@@ -7,7 +7,7 @@ This project was built to showcase my skills, projects, and background as a Full
 
 ## 🖼️ Screenshot
 
-![Portfolio Home](./Home.png)
+![Portfolio Home](./public/Home.png)
 
 ---
 
