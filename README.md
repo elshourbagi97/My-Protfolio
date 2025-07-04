@@ -59,7 +59,7 @@ A button lets users **download my CV** directly from the website.
 
 ## 🎥 Live Demo
 
-👉 [Watch Full Demo on YouTube](https://youtu.be/jwijybA_H14)
+👉 [Watch Full Demo on YouTube](https://youtu.be/v8do5JroA0c)
 
 ---
 
