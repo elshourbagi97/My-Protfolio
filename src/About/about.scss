@@ -5,7 +5,7 @@
     justify-content: space-between;
     .leftAbout{
         width: 55%;
-        margin-left: 2rem;
+        margin-left: 5rem;
         margin-top: 5rem;
         h3{
             font-size: 3.5rem;
@@ -15,6 +15,7 @@
         .aboutMain{
             margin-top: 1.5rem;
             width: 100%;
+            margin-left: 1.5rem;
             h4{
                 margin-bottom: 1.8rem;
             }
@@ -25,6 +26,7 @@
             }
             a{
                 text-transform: uppercase;
+                margin-top: 1.2rem;
             }
         }
 
@@ -65,13 +67,17 @@
             width: 100%;
             margin-left: 1rem;
             margin-top: 0;
+            h3{
+                margin-left: 0.5rem;
+            }
             .aboutMain{
-            width: 100%;
+            width: 95%;
             h4{
                 font-size: 1.3rem;
+               width: 90%;
             }
             p{
-                width: 95%;
+                width: 89%;
             }
             }
         }

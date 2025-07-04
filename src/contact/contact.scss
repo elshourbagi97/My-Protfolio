@@ -6,14 +6,15 @@
     justify-content: space-between;
     .leftConnect{
         width: 50%;
+        
         h3 {
             font-size: 3.5rem;
             text-transform: capitalize;
-            translate: 0rem -5rem;
+            translate: 4rem -5rem;
         }
         .email{
             margin-left: 2rem;
-            translate: 0rem -2rem;
+            translate: 4rem -2rem;
             width: 70%;
             p{
                 display: inline-block;
@@ -27,7 +28,7 @@
          .logos{
             perspective: 1000px;
             margin-left: 2rem;
-            translate: 0rem -0.7rem;
+            translate: 4rem -0.7rem;
             .logo1{
              display: inline-block;
              margin: 0rem 0.5rem;
@@ -103,10 +104,10 @@
         .leftConnect{
             width: 100%;
             h3{
-                translate: 1rem -5rem;
+                translate: 1.5rem -5rem;
             }
             .email{
-                translate: 2rem -4rem;
+                translate: 2.5rem -4rem;
             }
             .logos{
                 translate: 3rem -3rem;
